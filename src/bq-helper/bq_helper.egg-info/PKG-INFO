@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: bq-helper
+Version: 0.4.1
+Summary: Helper class to simplify common read-only BigQuery tasks.
+Home-page: https://github.com/SohierDane/BigQuery_Helper
+Author: Sohier Dane
+Author-email: UNKNOWN
+License: Apache 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3

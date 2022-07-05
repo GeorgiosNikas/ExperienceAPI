@@ -1,0 +1,7 @@
+README.md
+setup.py
+bq_helper.egg-info/PKG-INFO
+bq_helper.egg-info/SOURCES.txt
+bq_helper.egg-info/dependency_links.txt
+bq_helper.egg-info/requires.txt
+bq_helper.egg-info/top_level.txt
