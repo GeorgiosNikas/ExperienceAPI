@@ -49,7 +49,7 @@ scipy
 seaborn
 sortedcollections
 sortedcontainers
-spacy
+spacy==2.1
 tensorflow
 tensorflow-estimator
 textblob
